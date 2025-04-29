@@ -1,6 +1,6 @@
-# 👋 Boas-vindas ao Repositório de Troubleshooting Splunk
+# 👋 Welcome to the Splunk Troubleshooting Repository
 
-Este repositório foi criado com o objetivo de apoiar técnicos, consultores e parceiros Splunk na identificação e resolução de problemas comuns (e não tão comuns) que ocorrem em ambientes com:
+This repository was created with the goal of supporting Splunk technicians, consultants, and partners in identifying and resolving common (and not so common) issues that occur in environments with:
 
 - 🔧 Splunk Core
 - 🛡️ Enterprise Security (ES)
@@ -9,51 +9,44 @@ Este repositório foi criado com o objetivo de apoiar técnicos, consultores e p
 
 ---
 
-## 🚀 O que você vai encontrar aqui
+## 🚀 What you will find here
 
-### 🧪 Simulações Realistas
-Casos práticos com sintomas, comandos, arquivos e diagnóstico completo. Separados por área para facilitar a navegação:
+### 🧪 Realistic Simulations
+Practical cases with symptoms, commands, files and complete diagnosis. Separated by area to facilitate navigation:
 
-- `simulacoes/core`
-- `simulacoes/es`
-- `simulacoes/itsi`
-- `simulacoes/infosec`
+- `simulations/core`
+- `simulations/es`
+- `simulations/itsi`
+- `simulations/infosec`
 
-### 🔁 Fluxos Lógicos
-Documentos que descrevem os caminhos possíveis de investigação técnica para cada área.
+### 🔁 Logical Flows
+Documents that describe the possible paths of technical investigation for each area.
 
-### 📊 Fluxos Visuais com Mermaid
-Diagramas renderizáveis no GitHub com árvores de decisão baseadas nos fluxos lógicos. Ótimos para apresentação, aprendizado e troubleshooting rápido.
+### 📊 Visual Flows with Mermaid
+Renderable diagrams on GitHub with decision trees based on logical flows. Great for presentation, learning and quick troubleshooting.
 
-### 🧰 Recursos Úteis
-- Checklists técnicos
-- Comandos frequentes
-- Sugestões de boas práticas Splunk
-
----
-
-## 📚 Como navegar
-
-- Use o menu lateral (ou explore os diretórios) para encontrar simulações ou fluxos por categoria.
-- Visualize fluxogramas em modo **Preview** do GitHub para ver os gráficos Mermaid renderizados.
-- Consulte o arquivo `README_fluxos.md` para ver todos os fluxos disponíveis.
+### 🧰 Useful Resources
+- Technical checklists
+- Frequently used commands
+- Splunk best practice suggestions
 
 ---
 
-## 🎯 Objetivo final
-Capacitar profissionais a resolverem problemas Splunk com autonomia, clareza e método. Ideal para:
+## 📚 How to navigate
 
-- Sessões de treinamento técnico
-- Provas de conceito (POCs)
-- Diagnóstico em produção
-- Onboarding de novos especialistas
+- Use the side menu (or browse the directories) to find simulations or flows by category.
+- View flowcharts in **Preview** mode from GitHub to see the rendered Mermaid charts.
+- See the `README_flows.md` file to see all available flows.
 
 ---
 
-## ✍️ Mantenedor
-Este projeto é mantido por [Levi Lima Greter](https://www.linkedin.com/in/lelima/), como parte da trilha de capacitação e suporte a parceiros do ecossistema Splunk no Brasil.
+## 🎯 Final objective
+To empower professionals to solve Splunk problems with autonomy, clarity and method. Ideal for:
+
+- Technical training sessions
+- Proofs of concept (POCs)
+- Diagnostics in production
+- Onboarding of new specialists
 
 ---
-
-**Esperamos que este conteúdo te ajude a evoluir como profissional e multiplicador técnico. Bons estudos!** 💡
 
